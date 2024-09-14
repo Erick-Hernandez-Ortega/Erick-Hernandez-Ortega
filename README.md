@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as Fullstack Web Developer on Yo contigo It
+🔭 I’m currently working as Junior Engineer in Applications and Development on Grupo Vida
 
 
 ## 🌐 Socials:
